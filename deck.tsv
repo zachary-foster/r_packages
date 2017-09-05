@@ -1,6 +1,8 @@
-front	back	source
-ProjectTemplate	Creates a standard directory structure for reproducible analyses	
-ProjectTemplate	Automates loading and parsing of data sets 	
-ProjectTemplate	Automates loading of packages for an analysis	
-Validate	Provides functions to check that data meets assumptions	
-assertr	Provides functions to check that data meets assumptions	
+front	back	source	source_url
+Capsicum annuum	Sweet and hot peppers		
+Capsicum annuum	capsicum_annuum_1.jpg	H. Zell	https://commons.wikimedia.org/wiki/File:Capsicum_annuum_003.JPG
+Capsicum annuum	capsicum_annuum_2.jpg	Franz Eugen Köhler	https://commons.wikimedia.org/wiki/File:Illustration_Capsicum_annuum0.jpg
+Capsicum annuum	capsicum_annuum_3.jpg	Prenn	https://commons.wikimedia.org/wiki/File:Capsicum_annuum_(2).JPG
+Capsicum annuum	capsicum_annuum_4.jpg	Ton Rulkens	https://commons.wikimedia.org/wiki/File:Capsicum_annuum_(8307305118).jpg
+Capsicum annuum	Native to Central America		
+Capsicum annuum	The source of cayenne, chili powder, and paprika		
