@@ -1,6 +1,8 @@
 front	back	source
-ProjectTemplate	Creates a standard directory structure for reproducible analyses	
+ProjectTemplate	Creates a standard directory structure for reproducible research	
 ProjectTemplate	Automates loading and parsing of data sets 	
 ProjectTemplate	Automates loading of packages for an analysis	
 Validate	Provides functions to check that data meets assumptions	
 assertr	Provides functions to check that data meets assumptions	
+rrtools	Creates a standard directory structure for reproducible research	
+rrtools	Can create docker files of projects for reproducible research	
