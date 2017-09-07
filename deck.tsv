@@ -1,9 +1,15 @@
-front	back	source
-ProjectTemplate	Creates a standard directory structure for reproducible research	
-ProjectTemplate	Automates loading and parsing of data sets 	
-ProjectTemplate	Automates loading of packages for an analysis	
-Validate	Provides functions to check that data meets assumptions	
-assertr	Provides functions to check that data meets assumptions	
-rrtools	Creates a standard directory structure for reproducible research	
-rrtools	Can create docker files of projects for reproducible research	
-
+front	back	source	source_url
+ProjectTemplate	Creates a standard directory structure for reproducible research		
+ProjectTemplate	Automates loading and parsing of data sets 		
+ProjectTemplate	Automates loading of packages for an analysis		
+validate	Provides functions to check that data meets assumptions		
+assertr	Provides functions to check that data meets assumptions		
+rrtools	Creates a standard directory structure for reproducible research		
+rrtools	Can create docker files of projects for reproducible research		
+hunspell	Checks spelling		
+Rcpp	Manages C++ code interface with R		
+devtools	Various tools to help with developing packages		
+testthat	Automates unit testing of R packages		
+covr	Measures coverage of unit tests		
+formatR	Automatically reformats R code to improve readability		
+roxygen2	Generate .Rd documentation for a package from comments in the code		
