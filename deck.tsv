@@ -13,3 +13,4 @@ testthat	Automates unit testing of R packages
 covr	Measures coverage of unit tests		
 formatR	Automatically reformats R code to improve readability		
 roxygen2	Generate .Rd documentation for a package from comments in the code		
+FedData	Downloads geospatial data from Federal data sources		
