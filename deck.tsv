@@ -14,3 +14,7 @@ covr	Measures coverage of unit tests	1
 formatR	Automatically reformats R code to improve readability	1		
 roxygen2	Generate .Rd documentation for a package from comments in the code	1		
 FedData	Downloads geospatial data from Federal data sources	1		
+pinp	Creates two-column PDFs from R markdown	1		
+readr	Reads tabular files as tibbles	1		
+readr	Reads tabular files faster than read.table	2		
+tidytext	Tools for handling text data	1		
